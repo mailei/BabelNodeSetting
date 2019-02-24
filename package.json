@@ -1,0 +1,16 @@
+{
+  "name": "diff_es6_import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "class.js",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "babel-node test.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
